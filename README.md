@@ -3,5 +3,5 @@
 and robotic assistant rollator.
 2. LSTM regression model for predicitng the possible relative orientations of the coupled robot-human motion. 
 
-Both learned from real data 
+Both learned from real patient data, extracted from a MoCap system.
 
